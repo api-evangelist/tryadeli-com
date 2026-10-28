@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Adeli is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tryadeli.com
+Adeli provides a unified social media and advertising API that enables developers to publish, schedule, and analyze posts across major platforms such as Instagram, TikTok, YouTube, Facebook, X, and Bluesky. It offers multi‑network publishing, built‑in scheduling, and comprehensive analytics, with a free tier for small‑scale use and paid plans for larger volumes.
+
+**Areas:** Social Media · Advertising · API · Marketing · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tryadeli.com)
+- [Documentation](https://www.tryadeli.com/docs)
+- [Getting started](https://www.tryadeli.com/docs/quickstart)
+- [API reference](https://www.tryadeli.com/docs/api)
+- [Pricing](https://www.tryadeli.com/pricing)
+- [Blog](https://www.tryadeli.com/blog)
+- [Terms of service](https://www.tryadeli.com/terms)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tryadeli-com/](https://apis.io/providers/tryadeli-com/).
